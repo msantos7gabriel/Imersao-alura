@@ -1,1 +1,1 @@
-console.log('Goats Do Basquete!');
+console.log(`O título é: ${dados[0].titulo} e o link é: ${dados[0].link}`);
