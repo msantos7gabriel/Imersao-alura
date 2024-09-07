@@ -441,13 +441,6 @@ let jogador = [
     tags: "Miles Bridges Atlético Impacto",
   },
   {
-    nome: "Bogdan Bogdanović",
-    descricao:
-      "Bogdan Bogdanović é um jogador versátil conhecido por suas habilidades de arremesso e capacidade de criar jogadas.",
-    link: "https://pt.wikipedia.org/wiki/Bogdan_Bogdanovi%C4%87",
-    tags: "Bogdan Bogdanović Arremesso Versátil",
-  },
-  {
     nome: "Malcolm Brogdon",
     descricao:
       "Malcolm Brogdon é um armador e ala conhecido por suas habilidades defensivas e ofensivas, além de sua consistência em quadra.",
@@ -698,13 +691,6 @@ let jogador = [
       "Cedi Osman é um ala turco conhecido por sua capacidade de arremessar e defender, além de sua habilidade de contribuir em várias áreas do jogo.",
     link: "https://pt.wikipedia.org/wiki/Cedi_Osman",
     tags: "Cedi Osman Arremesso Defesa",
-  },
-  {
-    nome: "Bogdan Bogdanović",
-    descricao:
-      "Bogdan Bogdanović é um ala conhecido por sua capacidade de pontuar e criar jogadas, além de sua versatilidade ofensiva e habilidades de arremesso.",
-    link: "https://pt.wikipedia.org/wiki/Bogdan_Bogdanović",
-    tags: "Bogdan Bogdanović Pontuação Versatilidade",
   },
   {
     nome: "Lauri Markkanen",
