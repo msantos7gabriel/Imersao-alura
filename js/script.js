@@ -4,6 +4,7 @@ function pesquisar() {
   let section = document.getElementById("resultados-pesquisa");
 
   let campo_pesquisa = document.getElementById("campo-pesquisa");
+  console.log(campo_pesquisa)
 
   // Inicializa uma string vazia para armazenar os resultados
   let resultados = "";
@@ -14,7 +15,7 @@ function pesquisar() {
     resultados += `
         <div class="item-resultado">
           <h2>
-            <a href="#" target="_blank">${dados.nome}</a>
+            <a href="#">${dados.nome}</a>
           </h2>
           <p class="discricao-meta">
             ${dados.descricao}
