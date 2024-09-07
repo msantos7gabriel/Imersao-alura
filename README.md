@@ -1,4 +1,4 @@
-# 🏀 Atletas da NBA
+# 🏀 Atletas da NBA - Imersão Dev com Google Gemini
 
 ## 🎯 O que essa aplicação faz?
 
