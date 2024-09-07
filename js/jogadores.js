@@ -280,13 +280,6 @@ let jogador = [
     tags: "King Pontuador Ofensivo",
   },
   {
-    nome: "James Worthy",
-    descricao:
-      "James Worthy foi uma peça fundamental nos 'Showtime' Lakers, vencendo três títulos da NBA e sendo MVP das finais em 1988.",
-    link: "https://pt.wikipedia.org/wiki/James_Worthy",
-    tags: "Worthy 3 títulos MVP das Finais",
-  },
-  {
     nome: "Stephen Curry",
     descricao:
       "Stephen Curry é amplamente considerado um dos maiores arremessadores de três pontos da história da NBA. Ele revolucionou o jogo com sua capacidade de fazer arremessos de longa distância.",
@@ -376,13 +369,6 @@ let jogador = [
       "Ben Simmons é conhecido por suas habilidades defensivas e capacidade de passar e criar jogadas. Ele é um dos jogadores mais versáteis da NBA.",
     link: "https://pt.wikipedia.org/wiki/Ben_Simmons",
     tags: "Ben Simmons Defensivo Versátil",
-  },
-  {
-    nome: "Russell Westbrook",
-    descricao:
-      "Russell Westbrook é conhecido por sua intensidade e habilidade atlética, além de seu talento como armador e seu estilo de jogo agressivo.",
-    link: "https://pt.wikipedia.org/wiki/Russell_Westbrook",
-    tags: "Russell Westbrook Intenso Armador",
   },
   {
     nome: "Kemba Walker",
@@ -504,13 +490,6 @@ let jogador = [
     tags: "Cade Cunningham Armador Jovem",
   },
   {
-    nome: "Jaden Ivey",
-    descricao:
-      "Jaden Ivey é um jovem talento conhecido por sua velocidade e habilidades ofensivas, além de seu potencial para se destacar na NBA.",
-    link: "https://pt.wikipedia.org/wiki/Jaden_Ivey",
-    tags: "Jaden Ivey Jovem Talento Ofensivo",
-  },
-  {
     nome: "Keegan Murray",
     descricao:
       "Keegan Murray é um jovem ala-pivô conhecido por suas habilidades de pontuar e sua capacidade de impactar o jogo em várias áreas.",
@@ -546,25 +525,11 @@ let jogador = [
     tags: "Isaac Okoro Ala Defensivo",
   },
   {
-    nome: "Josh Giddey",
-    descricao:
-      "Josh Giddey é um jovem armador conhecido por suas habilidades de passe e sua capacidade de criar jogadas para seus companheiros.",
-    link: "https://pt.wikipedia.org/wiki/Josh_Giddey",
-    tags: "Josh Giddey Armador Passe",
-  },
-  {
     nome: "Franz Wagner",
     descricao:
       "Franz Wagner é um jovem ala conhecido por suas habilidades ofensivas e sua capacidade de impactar o jogo com seu jogo versátil.",
     link: "https://pt.wikipedia.org/wiki/Franz_Wagner",
     tags: "Franz Wagner Ala Ofensivo",
-  },
-  {
-    nome: "Matisse Thybulle",
-    descricao:
-      "Matisse Thybulle é conhecido por suas habilidades defensivas excepcionais e seu impacto no jogo em termos de roubos de bola e bloqueios.",
-    link: "https://pt.wikipedia.org/wiki/Matisse_Thybulle",
-    tags: "Matisse Thybulle Defensivo Roubos de Bola",
   },
   {
     nome: "Tyrese Maxey",
@@ -586,13 +551,6 @@ let jogador = [
       "Paul George é um ala conhecido por suas habilidades ofensivas e defensivas, além de sua capacidade de se destacar em ambos os lados da quadra.",
     link: "https://pt.wikipedia.org/wiki/Paul_George",
     tags: "Paul George Ala Ofensivo Defensivo",
-  },
-  {
-    nome: "Russell Westbrook",
-    descricao:
-      "Russell Westbrook é conhecido por sua intensidade e habilidade atlética, além de seu talento como armador e seu estilo de jogo agressivo.",
-    link: "https://pt.wikipedia.org/wiki/Russell_Westbrook",
-    tags: "Russell Westbrook Intenso Armador",
   },
   {
     nome: "Andre Drummond",
@@ -621,13 +579,6 @@ let jogador = [
       "DeAndre Ayton é um pivô jovem conhecido por suas habilidades de rebote e presença no garrafão, além de seu potencial ofensivo.",
     link: "https://pt.wikipedia.org/wiki/DeAndre_Ayton",
     tags: "DeAndre Ayton Pivô Rebote Ofensivo",
-  },
-  {
-    nome: "Jaden Ivey",
-    descricao:
-      "Jaden Ivey é um jovem talento conhecido por sua velocidade e habilidades ofensivas, além de seu potencial para se destacar na NBA.",
-    link: "https://pt.wikipedia.org/wiki/Jaden_Ivey",
-    tags: "Jaden Ivey Jovem Talento Ofensivo",
   },
   {
     nome: "Gary Trent Jr.",
@@ -700,13 +651,6 @@ let jogador = [
     tags: "Lauri Markkanen Arremesso Ofensivo",
   },
   {
-    nome: "Jalen Green",
-    descricao:
-      "Jalen Green é um jovem talento conhecido por sua habilidade de pontuar e criar jogadas, além de seu potencial para se tornar uma estrela na NBA.",
-    link: "https://pt.wikipedia.org/wiki/Jalen_Green",
-    tags: "Jalen Green Jovem Talento Pontuação",
-  },
-  {
     nome: "Russell Westbrook",
     descricao:
       "Russell Westbrook é um armador explosivo conhecido por sua intensidade e habilidade de preencher a estatística em diversas categorias, incluindo pontos, assistências e rebotes.",
@@ -763,13 +707,6 @@ let jogador = [
     tags: "Matisse Thybulle Defesa Roubo de Bola",
   },
   {
-    nome: "Malcolm Brogdon",
-    descricao:
-      "Malcolm Brogdon é um armador versátil conhecido por suas habilidades de pontuar e criar jogadas, além de sua defesa sólida.",
-    link: "https://pt.wikipedia.org/wiki/Malcolm_Brogdon",
-    tags: "Malcolm Brogdon Armador Versatilidade",
-  },
-  {
     nome: "Jaden Ivey",
     descricao:
       "Jaden Ivey é um jovem jogador conhecido por sua capacidade de pontuar e criar jogadas, com grande potencial para se destacar na NBA.",
@@ -789,13 +726,6 @@ let jogador = [
       "Josh Giddey é um armador australiano conhecido por sua visão de jogo e habilidade de criar jogadas para seus companheiros de equipe.",
     link: "https://pt.wikipedia.org/wiki/Josh_Giddey",
     tags: "Josh Giddey Armador Visão de Jogo",
-  },
-  {
-    nome: "Isaac Okoro",
-    descricao:
-      "Isaac Okoro é um ala defensor conhecido por suas habilidades defensivas e capacidade de contribuir no ataque com sua versatilidade.",
-    link: "https://pt.wikipedia.org/wiki/Isaac_Okoro",
-    tags: "Isaac Okoro Defesa Versatilidade",
   },
   {
     nome: "Bogdan Bogdanović",
@@ -819,25 +749,11 @@ let jogador = [
     tags: "Darius Garland Armador Pontuação",
   },
   {
-    nome: "Tyrese Maxey",
-    descricao:
-      "Tyrese Maxey é um armador jovem conhecido por sua capacidade de pontuar e criar jogadas, com grande potencial para se destacar na NBA.",
-    link: "https://pt.wikipedia.org/wiki/Tyrese_Maxey",
-    tags: "Tyrese Maxey Armador Pontuação",
-  },
-  {
     nome: "Davion Mitchell",
     descricao:
       "Davion Mitchell é um armador conhecido por suas habilidades defensivas e sua capacidade de criar jogadas e pontuar.",
     link: "https://pt.wikipedia.org/wiki/Davion_Mitchell",
     tags: "Davion Mitchell Defesa Armador",
-  },
-  {
-    nome: "Jaden Hardy",
-    descricao:
-      "Jaden Hardy é um jovem jogador conhecido por sua capacidade de pontuar e criar jogadas, com grande potencial para se destacar na NBA.",
-    link: "https://pt.wikipedia.org/wiki/Jaden_Hardy",
-    tags: "Jaden Hardy Jovem Talento Pontuação",
   },
   {
     nome: "Cam Thomas",
