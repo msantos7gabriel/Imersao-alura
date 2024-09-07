@@ -17,70 +17,17 @@
           name="busca_atleta"
           id="busca_atleta"
           placeholder="Digite o nome do seu atleta"
+          id="campo-pesquisa"
         />
-        <button>Pesquisar</button>
+        <button onclick="pesquisar()">Pesquisar</button>
       </section>
-      <section class="resultados-pesquisa">
-        <div class="item-resultado">
-          <h2>
-            <a href="#" target="_blank">Allen Iverson</a>
-          </h2>
-          <p class="discricao-meta">
-            Allen Iverson foi um dos maiores jogadores de basquete da sua
-            geração. Conhecido por sua habilidade de driblar, sua baixa estatura
-            e sua personalidade marcante, Iverson se tornou um ícone da NBA.
-          </p>
-          <a
-            href="https://en.wikipedia.org/wiki/Allen_Iverson"
-            target="_blank"
-            rel="external"
-          >
-            Mais Informações sobre Allen Iverson
-          </a>
-        </div>
-        <div class="item-resultado">
-          <h2>
-            <a href="#" target="_blank">Michael Jordan</a>
-          </h2>
-          <p class="discricao-meta">
-            Considerado por muitos o maior jogador de basquete de todos os
-            tempos, Michael Jordan conquistou seis títulos da NBA com o Chicago
-            Bulls. Sua habilidade de voar pelos ares e sua mentalidade vencedora
-            o tornaram uma lenda do esporte.
-          </p>
-          <a
-            href="https://en.wikipedia.org/wiki/Michael_Jordan"
-            target="_blank"
-            rel="external"
-          >
-            Mais Informações sobre Michael Jordan
-          </a>
-        </div>
-        <div class="item-resultado">
-          <h2>
-            <a href="#" target="_blank">LeBron James</a>
-          </h2>
-          <p class="discricao-meta">
-            LeBron James é um dos maiores atletas da história, conhecido por sua
-            versatilidade e longevidade na NBA. Com múltiplos títulos e
-            recordes, ele é frequentemente comparado a Michael Jordan na
-            discussão sobre o maior jogador de todos os tempos.
-          </p>
-          <a
-            href="https://en.wikipedia.org/wiki/LeBron_James"
-            target="_blank"
-            rel="external"
-          >
-            Mais Informações sobre LeBron James
-          </a>
-        </div>
-      </section>
+      <section class="resultados-pesquisa" id="resultados-pesquisa"></section>
     </main>
     <footer>
       <p>2024 - Atletas do Brasil. &copy; Todos os direitos reservados</p>
       <p>Entre em contato pelo email: gabriel.montalvão@atletas.com.br</p>
     </footer>
-    <script src="dados.js"></script>
+    <script src="jogadores.js"></script>
     <script src="script.js"></script>
   </body>
 </html>
