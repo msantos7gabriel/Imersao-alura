@@ -4,15 +4,15 @@
 /* Definindo as variáveis de cor */
 :root {
   --cor-fundo: #dddddd;
-  --cor-texto: #222831;
-  --cor-botao-fundo: #30475e;
-  --cor-botao-texto: #f5f7f8;
+  --cor-texto: #333333;
+  --cor-botao-fundo: #552583;
+  --cor-botao-texto: #f2f2f2;
   --cor-item-fundo: #ffffff;
-  --cor-item-texto: #30475e;
-  --cor-item-sombra: rgba(0, 0, 0, 0.1);
-  --cor-meta-texto: #45474b;
-  --cor-rodape-fundo: #f5f7f8;
-  --cor-rodape-texto: #45474b;
+  --cor-item-texto: #333333;
+  --cor-item-sombra: rgba(0, 0, 0, 0.15);
+  --cor-meta-texto: #666666;
+  --cor-rodape-fundo: #f2f2f2;
+  --cor-rodape-texto: #666666;
 }
 
 /* Estiliza o corpo da página */
@@ -65,15 +65,15 @@ section button {
   color: var(--cor-botao-texto);
   font-size: 1rem;
   cursor: pointer;
-  transition: box-shadow 0.4s ease-in-out 0.2s, background-color 0.5s ease-in-out,
-    transform 0.5s ease-in-out;
+  transition: box-shadow 0.5s ease-out, background-color 0.5s ease-in-out,
+    transform 0.3s ease-in-out;
 }
 
 /* Adiciona efeito hover ao botão de pesquisa */
 section button:hover {
   background-color: var(--cor-botao-fundo);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-  transform: scale(1.1);
+  box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.5);
+  transform: scale(1.05);
 }
 
 /* Estiliza a caixa de resultados da pesquisa */
